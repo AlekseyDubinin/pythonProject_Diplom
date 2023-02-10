@@ -1,0 +1,4 @@
+# Запустить
+
+```docker-compose up```
+
